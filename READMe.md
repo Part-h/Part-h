@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Parth Patel and I'm a Full Stack Developer with over 4 years of experience. With a Master's degree from renowned and exposure to different cultures, I bring adaptability and a global perspective to my work. I excel at blending front-end design with back-end functionality, bringing digital projects to life with every line of code.</h3>
+<h3 align="left">Hi 👋! My name is Parth Patel and I'm a Full Stack Developer with over 2 years of experience. With a Master's degree from renowned and exposure to different cultures, I bring adaptability and a global perspective to my work. I excel at blending front-end design with back-end functionality, bringing digital projects to life with every line of code.</h3>
 
 ###
 
